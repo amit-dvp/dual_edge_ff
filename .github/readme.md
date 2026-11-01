@@ -2,8 +2,7 @@
 
 Circuit's operation: 
 
-![alt text](image-12.png){width="80%"}
-
+![alt text](image-12.png)
 
 
 The circuit is defined in https://patents.google.com/patent/US5327019A/en
