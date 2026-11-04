@@ -2,7 +2,7 @@
 
 Circuit's operation: 
 
-![alt text](image-12.png){width="80%"}
+![alt text](image-12.png)
 
 
 
@@ -38,5 +38,5 @@ After P&R the desing pass without timing errors with input clock frequency of 30
 
 ![alt text](image-16.png)
 
-It is worth noting that this design generated a narrow 1.65 ns pulse inside the FPGA and transmitted it externally while maintaining precise timing accuracy.
+It is worth noting that this design generated a narrow **1.65 ns** pulse inside the FPGA and transmitted it externally while maintaining precise timing accuracy.
 
