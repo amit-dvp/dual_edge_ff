@@ -1,4 +1,8 @@
-## VHDL / Verilog Implementation of Pseudo Dual Edge Triggered Flip Flop. 
+# VHDL / Verilog Implementation of Pseudo Dual Edge Triggered Flip Flop. 
+
+### <mark>***Note : pulse of 1.65 ns width generated and transmitted***
+
+---
 
 Circuit's operation: 
 
@@ -22,7 +26,7 @@ We can observe that the signal is indeed sampled on both the rising and falling 
 
 ---
 
-To evaluate the dual edge triggered FF in P&R I implemented simple design that generates a short pulse between rising and falling clock edge, passes this pulse through 3 dual edge triggered FFs inserting delay of half clock every time, and output the pulse through ODDR block (that insert additional half clock delay).
+To evaluate the dual edge triggered FF usage I performed implementation (including Place and Rout) of simple design that generates a short pulse between rising and falling clock edges, passes this pulse through 3 dual edge triggered FFs, inserting delay of half clock every time, and output the pulse through ODDR block (that inserts additional half clock delay).
 
 The RTL of design: 
 
