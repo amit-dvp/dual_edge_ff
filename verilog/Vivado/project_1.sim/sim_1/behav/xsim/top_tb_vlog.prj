@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../src/dual_clock_ff.v" \
+"../../../../../src/narrow_pulse_gen.v" \
+"../../../../../src/rst_sync_f.v" \
+"../../../../../src/rst_sync_r.v" \
+"../../../../../src/top.v" \
+"../../../../../tb/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

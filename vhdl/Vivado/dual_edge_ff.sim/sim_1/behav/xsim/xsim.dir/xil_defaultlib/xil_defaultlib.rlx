@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Amit/Interview/dual_edge_ff/vhdl/src/dual_clock_ff.vhd,1793641048,vhdl,,,,dual_clock_ff,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/src/narrow_pulse_gen.vhd,1793709449,vhdl,,,,narrow_pulse_gen,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/src/rst_sync_f.vhd,1793567278,vhdl,,,,rst_sync_f,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/src/rst_sync_r.vhd,1793567278,vhdl,,,,rst_sync_r,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/src/top.vhd,1793728786,vhdl,,,,top,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/tb/dual_clock_ff_tb.vhd,1793559374,vhdl,,,,dual_clock_ff_tb,,,,,,,,
+C:/Amit/Interview/dual_edge_ff/vhdl/tb/top_tb.vhd,1793629643,vhdl,,,,top_tb,,,,,,,,

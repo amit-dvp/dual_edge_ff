@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../src/dual_clock_ff.vhd" \
+"../../../../../src/narrow_pulse_gen.vhd" \
+"../../../../../src/rst_sync_f.vhd" \
+"../../../../../src/rst_sync_r.vhd" \
+"../../../../../src/top.vhd" \
+"../../../../../tb/top_tb.vhd" \
+
+# Do not sort compile order
+nosort

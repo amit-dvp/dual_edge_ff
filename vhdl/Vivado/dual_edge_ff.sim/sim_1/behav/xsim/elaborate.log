@@ -1,0 +1,27 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot top_tb_behav xil_defaultlib.top_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling architecture bufg_v of entity unisim.BUFG [bufg_default]
+Compiling architecture arc of entity xil_defaultlib.rst_sync_f [rst_sync_f_default]
+Compiling architecture arc of entity xil_defaultlib.rst_sync_r [rst_sync_r_default]
+Compiling architecture arc of entity xil_defaultlib.narrow_pulse_gen [narrow_pulse_gen_default]
+Compiling architecture arc of entity xil_defaultlib.dual_clock_ff [dual_clock_ff_default]
+Compiling architecture oddr_v of entity unisim.ODDR [\ODDR(1,13)(1,4)\]
+Compiling architecture arc of entity xil_defaultlib.top [top_default]
+Compiling architecture arc of entity xil_defaultlib.top_tb
+Built simulation snapshot top_tb_behav

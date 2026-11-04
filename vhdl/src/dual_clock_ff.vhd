@@ -42,7 +42,7 @@ architecture arc of dual_clock_ff is
         
         
         --falling edge ff
-        process(rst_r, clk)
+        process(rst_n, clk)
             begin
                 if rst_n = '1' then
                     d_neg <= '0';
