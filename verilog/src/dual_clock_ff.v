@@ -4,6 +4,8 @@
  
      this design implements dual clock flip flop */
 
+`timescale 1ns / 1ps  // define simulation resolution
+`default_nettype none // Turn off implicit net declaration
 
 module dual_clock_ff 
     (
