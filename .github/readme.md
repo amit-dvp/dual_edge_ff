@@ -1,4 +1,4 @@
-## Evaluation of Pseudo Dual Edge Triggered Flip Flop. 
+## VHDL / Verilog Implementation of Pseudo Dual Edge Triggered Flip Flop. 
 
 Circuit's operation: 
 
