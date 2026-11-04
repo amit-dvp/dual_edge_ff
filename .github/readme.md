@@ -1,6 +1,6 @@
-# VHDL / Verilog Implementation of Pseudo Dual Edge Triggered Flip Flop. 
+# VHDL / Verilog Vivado Implementation of Pseudo Dual Edge Triggered Flip Flop. 
 
-### <mark>***Note : pulse of 1.65 ns width generated and transmitted***
+### <mark>***A 1.65 ns-wide pulse was generated and transmitted.***
 
 ---
 
